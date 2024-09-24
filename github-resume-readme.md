@@ -30,7 +30,7 @@
 - Facilitated cross-cultural communication among students from diverse backgrounds, including Saudi Arabia, China, and the USA.
 
 ### Lionsbot, Intern (Feb - Jul 23, full time)
-- Assisted R&D team with testing of new designs in design for manufacturing and learnt design software such as Solidworks and Figma.
+- Worked at a robotics startup and assisted R&D team with testing of new designs in design for manufacturing and learnt design software such as Solidworks and Figma.
 - Collaborated with industrial engineers to design factory layouts, organize sub-assemblies, optimize production stations, and arrange storage areas and walkways to minimise collisions, reduce safety hazards, and enhance throughput and efficiency.
 - Focused on production targets, learning about product selection strategies for start-ups, where production cost and time sometimes outweighed product popularity.
 - Tracked working condition of over 200 cleaning robots at over 50 MOE schools and did deployment, diagnosis and repairs for 3 types of cleaning robots on site.
